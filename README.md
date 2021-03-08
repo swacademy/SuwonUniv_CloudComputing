@@ -36,6 +36,6 @@
   - https://www.youtube.com/watch?v=JVnUSBlYmEc 
   - https://ko.wikipedia.org/wiki/%EC%97%91%EC%8A%A4_%EB%A7%88%ED%82%A4%EB%82%98_(%EC%98%81%ED%99%94)
   - https://www.yna.co.kr/view/AKR20151106109400017  
-  - 한국기술교육대학교https://e-koreatech.step.or.kr) 4차 산업혁명 신산업 기술 이해
+  - 한국기술교육대학교(https://e-koreatech.step.or.kr) 4차 산업혁명 신산업 기술 이해
   - https://edu.goorm.io/learn/lecture/18575/모두를 위한 클라우드 컴퓨팅 입문
   - 하야시 마사유키 저/서재원 역, [그림으로 배우는 클라우드 Cloud Computing 2nd Edition],(주)영진닷컴(2021)
