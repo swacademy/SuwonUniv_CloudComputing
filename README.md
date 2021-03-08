@@ -2,6 +2,40 @@
 
 - 1주차 : 4차 산업혁명 新산업 기술 이해
   - https://www.youtube.com/watch?v=wmlBgkSTaek&t=1s
-  - https://ittrue.tistory.com/12 ![image](https://user-images.githubusercontent.com/25756829/110319746-a93db800-8052-11eb-9e84-c737654ca29f.png)
-
-    
+  - https://ittrue.tistory.com/12 
+  - http://www.newsworker.co.kr/news/articleView.html?idxno=8658 
+  - https://blog.lgcns.com/1413 
+  - https://www.4th-ir.go.kr/article/detail/354?boardName=internalData&category  
+  - https://www.safety1st.news/news/articleView.html?idxno=164
+  - https://www.skyraytechno.com/industries/industrial-equipment
+  - https://www.youtube.com/watch?v=Z9egHYH7INE 
+  - https://www.youtube.com/watch?v=4wE1_DiUABQ 
+  - https://www.youtube.com/watch?v=lG7DGMgfOb8
+  - https://www.iwecfoundation.org/news/internet-of-things-reaching-mainstream-companies/ 
+  - https://m.blog.naver.com/ksainnov/221104896718/
+  - http://usknews.com/bbs/board.php?bo_table=sisa&wr_id=223&sst=wr_hit&sod=desc&sop=and&page=1
+  - https://m.hankookilbo.com/News/Read/201705111466291644 
+  - https://blog.lgcns.com/1781 
+  - https://www.youtube.com/watch?v=yrxGIppqEv0 
+  - https://www.youtube.com/watch?v=XyWJoYmyFvw 
+  - https://lifars.com/2020/06/iot-device-attacks/ 
+  - https://towardsdatascience.com/iot-in-action-a8b7fac83619 
+  - https://www.i-scoop.eu/internet-of-things-guide/internet-of-things/ 
+  - https://innovationatwork.ieee.org/growing-cloud-computing-utilization-in-2019/ 
+  - http://peeledchicago.com/2020/11/22/what-is-cloud-computing/ 
+  - https://www.nist.gov/programs-projects/nist-cloud-computing-program-nccp 
+  - https://www.supraits.com/infrastructure/managed-cloud/hybrid-cloud-3/cloud-computing/ 
+  - https://www.youtube.com/watch?v=q9cW9zksePM 
+  - https://www.scnsoft.com/blog/iot-big-data-nature 
+  - https://data2x.org/resource-center/big-data-and-the-wellbeing-of-women-and-girls/ 
+  - https://openautomationsoftware.com/open-automation-systems-blog/what-is-big-data/ 
+  - https://www.visualcapitalist.com/big-data-keeps-getting-bigger/ 
+  - https://www.youtube.com/watch?v=V-jZ_OjZPCk 
+  - https://medium.com/advanced-design-for-ai/what-artificial-intelligence-ai-will-look-like-in-100-years-from-now-4ced0f5ea6ce 
+  - https://www.cognillo.com/blog/supervised-unsupervised-and-reinforcement-machine-learning-which-one-is-the-best/ 
+  - https://www.youtube.com/watch?v=JVnUSBlYmEc 
+  - https://ko.wikipedia.org/wiki/%EC%97%91%EC%8A%A4_%EB%A7%88%ED%82%A4%EB%82%98_(%EC%98%81%ED%99%94)
+  - https://www.yna.co.kr/view/AKR20151106109400017  
+  - 한국기술교육대학교https://e-koreatech.step.or.kr) 4차 산업혁명 신산업 기술 이해
+  - https://edu.goorm.io/learn/lecture/18575/모두를 위한 클라우드 컴퓨팅 입문
+  - 하야시 마사유키 저/서재원 역, [그림으로 배우는 클라우드 Cloud Computing 2nd Edition], , (주)영진닷컴(2021)
