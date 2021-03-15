@@ -45,3 +45,44 @@
 
 - 2주차 : 클라우드 컴퓨팅의 이해
   - https://www.chosun.com/economy/mint/2020/11/29/NCHJX4OFXNG65FGI64LJVDS3CE/
+  - https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist) 
+  - https://en.wikipedia.org/wiki/Magic_Cap 
+  - https://archive.fortune.com/galleries/2008/fortune/0801/gallery.BestCo_Googlers.fortune/9.html 
+  - https://velog.io/@gunwooko/Deployment-and-AWS 
+  - https://en.wikipedia.org/wiki/Eric_Schmidt 
+  - https://www.etnews.com/201010110011?m=1 
+  - http://www.libqa.com/wiki/116 
+  - https://www.ahnlab.com/kr/site/securityinfo/secunews/secuNewsView.do?curPage=3&seq=11020 
+  - https://www.researchgate.net/figure/Client-server-and-P2P-network-models_fig2_335480185 
+  - http://www.ddaily.co.kr/cloud/news/article.html?no=50793 
+  - https://wedul.site/424 
+  - https://sports.donga.com/it/article/all/20101104/32347559/1 
+  - https://www.researchgate.net/figure/Meta-cluster-computing_fig3_220285871 
+  - https://practice.hooniworld.io/entry/%EA%B0%80%EC%83%81%ED%99%94%EC%9D%98-%EA%B8%B0%EC%88%A0 
+  - https://www.reddit.com/r/ElectricalEngineering/comments/9xd2j6/electrical_power_generation_transmission/ 
+  - https://clearcube.com/posts/what-is-a-thin-client/ 
+  - https://www.nist.gov/image-18685 
+  - https://velog.io/@aonee/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%9E%80-nzrij240 
+  - https://cic.gsa.gov/solutions/iaas 
+  - https://cic.gsa.gov/solutions/paas/ 
+  - https://cic.gsa.gov/solutions/saas/ 
+  - https://www.soluno.com/saas-paas-iaas/ 
+  - https://sites.google.com/site/siclou003/conceptos-previos/capas-de-cloud-computing 
+  - https://www.rishabhsoft.com/blog/basics-of-cloud-computing-deployment-and-service-models 
+  - https://authenticredcreative.com/how-the-public-cloud-service-works/ 
+  - https://www.cloudflare.com/ko-kr/learning/cloud/what-is-a-private-cloud/ 
+  - https://www.enterpriseitnews.com.my/hybrid-is-the-new-cloud-craze/ 
+  - https://www.javatpoint.com/community-cloud 
+  - https://www.stonegroup.co.uk/insights/what-makes-up-an-it-infrastructure/ 
+  - https://medium.com/swlh/the-platform-edge-dbc541320fa7 
+  - https://www.sdxcentral.com/edge/definitions/mec-virtualization/ 
+  - https://toma0912.tistory.com/87 
+  - https://www.ciokorea.com/news/39204 
+  - https://www.slideshare.net/misia85/ss-12893552 
+  - 박정운, “구글 클라우드 플랫폼 뽀개기“, 비제이퍼블릭(2019)
+  - 한국인터넷진흥원, “클라우드 정보보호 안내서”, 한국인터넷진흥원(2017, 12)
+  - “클라우드 서비스 활성화를 위한 정보보호대책 보고서“, 정부부처합동, 2015
+  - “클라우드컴퓨팅 기술 스택“, 한국클라우드컴퓨팅연구조합, 2017
+  - 김승회, “클라우드컴퓨팅의 장점과 단점“, 2012
+  - 하야시 마사유키 저/서재원 역, “그림으로 배우는 클라우드 2nd Edition, 영진닷컴(2021)
+  - https://edu.goorm.io/learn/lecture/18575/모두를 위한 클라우드 컴퓨팅 입문
