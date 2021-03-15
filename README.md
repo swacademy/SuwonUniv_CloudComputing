@@ -42,3 +42,6 @@
   - 한국기술교육대학교(https://e-koreatech.step.or.kr) 4차 산업혁명 신산업 기술 이해
   - https://edu.goorm.io/learn/lecture/18575/모두를 위한 클라우드 컴퓨팅 입문
   - 하야시 마사유키 저/서재원 역, [그림으로 배우는 클라우드 Cloud Computing 2nd Edition],(주)영진닷컴(2021)
+
+- 2주차 : 클라우드 컴퓨팅의 이해
+  - https://www.chosun.com/economy/mint/2020/11/29/NCHJX4OFXNG65FGI64LJVDS3CE/
