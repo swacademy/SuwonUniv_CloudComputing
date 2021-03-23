@@ -86,3 +86,4 @@
   - 김승회, “클라우드컴퓨팅의 장점과 단점“, 2012
   - 하야시 마사유키 저/서재원 역, “그림으로 배우는 클라우드 2nd Edition, 영진닷컴(2021)
   - https://edu.goorm.io/learn/lecture/18575/모두를 위한 클라우드 컴퓨팅 입문
+  - 토종 클라우드 3사, 글로벌 IT기업 대항마 되나 https://www.edaily.co.kr/news/read?newsId=03414486628983648&mediaCodeNo=257&OutLnkChk=Y&fbclid=IwAR1hnBy22-Ow8V5avufdJf9JyDe72LssMVDVofDXgHWftwoJHqJQI7hcjDA
