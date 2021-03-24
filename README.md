@@ -2,6 +2,7 @@
 
 - 0주차 : Orientation
   - 대한민국 SaaS 빅뱅이 온다. 단, ooo이 있다면 https://no900528.tistory.com/3?fbclid=IwAR3mhXpDF7TfNjh-EDADh7F2Q50OVwjZ7HfoS82ixWpts9-cDx4r04epDlQ
+  - 2021 클라우드 컴퓨팅 전망: 7개의 키워드 https://slownews.kr/79234
   
 - 1주차 : 4차 산업혁명 新산업 기술 이해
   - https://www.youtube.com/watch?v=wmlBgkSTaek&t=1s
