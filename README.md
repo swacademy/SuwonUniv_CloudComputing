@@ -124,6 +124,7 @@
    - 탈레스, 2020 탈레스 데이터 위협 보고서 발표 https://www.itworld.co.kr/news/149249
    - 2019년 클라우드 보안 위협 13가지 https://www.itworld.co.kr/news/125934
    - CSA 2020 보고서 핵심 요약 https://www.ciokorea.com/t/21990/%EC%95%85%EC%84%B1%EC%BD%94%EB%93%9C/168955
+   - 클라우드 컴퓨티이란? https://www.cisp.or.kr/archives/12017
 
 
 
