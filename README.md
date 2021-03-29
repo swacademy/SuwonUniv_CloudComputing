@@ -90,4 +90,4 @@
   - 토종 클라우드 3사, 글로벌 IT기업 대항마 되나 https://www.edaily.co.kr/news/read?newsId=03414486628983648&mediaCodeNo=257&OutLnkChk=Y&fbclid=IwAR1hnBy22-Ow8V5avufdJf9JyDe72LssMVDVofDXgHWftwoJHqJQI7hcjDA
 
  - 3주차 : 클라우드 컴퓨팅 아키텍처
-  - 애플 클라우드 데이터센터 공개 https://www.yna.co.kr/view/AKR20110607036500017 
+   - 애플 클라우드 데이터센터 공개 https://www.yna.co.kr/view/AKR20110607036500017 
