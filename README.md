@@ -91,3 +91,43 @@
 
  - 3주차 : 클라우드 컴퓨팅 아키텍처
    - 애플 클라우드 데이터센터 공개 https://www.yna.co.kr/view/AKR20110607036500017 
+   - http://blog.naver.com/PostView.nhn?blogId=bmgroup&logNo=30110381154&beginTime=0&jumpingVid=&from=search&redirect=Log&widgetTypeCall=true
+   - https://slidesplayer.org/slide/11161984/ 
+   - https://jooinn.com/img/get 
+   - https://sites.google.com/site/hadwaregirls/software/inside-a-computer 
+   - https://www.bepublishing.com/parts-of-a-computer-system.html 
+   - https://www.goodcore.co.uk/blog/types-of-software/ 
+   - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccNOqhORcv7sad31f20XoKkUqoTbROB3H6Q&usqp=CAU 
+   - https://sidath.medium.com/enterprise-application-integration-strategies-7271a248032e 
+   - https://www.lifewire.com/business-computer-networks-817883 
+   - https://velog.io/@jacoblee19/%EC%9B%B9-%ED%98%B8%EC%8A%A4%ED%8C%85-vs.-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%ED%98%B8%EC%8A%A4%ED%8C%85 
+   - https://m.blog.naver.com/PostView.nhn?blogId=limoremo&logNo=220024424776&proxyReferer=https:%2F%2Fwww.google.com%2F 
+   - https://blog.naver.com/rlaxodus2345/80149878882 
+   - https://nubiz.tistory.com/540 
+   - https://www.educba.com/cloud-networking/ 
+   - 한국인터넷진흥원, “클라우드 정보보호 안내서”, 한국인터넷진흥원(2017, 12)
+   - https://phoenixnap.com/blog/what-is-cloud-security 
+   - https://www.pinterest.co.kr/pin/718394578055763835/ 
+   - https://www.slideshare.net/jerryjung7/2012-07-28cloudreferencearchitectureopenplatform 
+   - https://www.researchgate.net/figure/Example-of-Services-Available-to-a-Cloud-Consumer-4-In-our-sense-cloud-computing_fig1_274719761 
+   - https://www.oreilly.com/library/view/hands-on-transfer-learning/9781788831307/571ace58-1931-4b51-8645-f82862bda17b.xhtml 
+   - https://www.researchgate.net/figure/The-overview-of-the-hybrid-cloud_fig2_258628635 
+   - CCCR, “클라우드 컴퓨팅 개념 치 구축 체험과정, “3. 클라우드 컴퓨팅 참조 아키텍처＂ 
+   - 조시 로젠버그〮아서 마테오스 저/장정식 역, “클라우드 세상 속으로“, 에이콘출판사(2016)
+   - 하야시 마사유키 저/서재원 역, “그림으로 배우는 클라우드 2nd Edition, 영진닷컴(2021)
+   - https://edu.goorm.io/learn/lecture/18575/모두를 위한 클라우드 컴퓨팅 입문
+   - CCCR, “클라우드 컴퓨팅 개념 치 구축 체험과정”
+   - 카카오가 데이터센터에 수천억을 투자하는 이유 https://www.coindeskkorea.com/news/articleView.html?idxno=71784#:~:text=%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%EB%8A%94%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%99%80,%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%EC%9D%B8%ED%94%84%EB%9D%BC%EB%A1%9C
+   - 가상화 기술 https://kim-dragon.tistory.com/5#:~:text=%EA%B0%80%EC%83%81%ED%99%94%EB%8A%94%20%EB%AC%BC%EB%A6%AC%EC%A0%81%EC%9D%B8%20%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4,%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8B%A4%EB%8A%94%20%EA%B2%83%EC%9E%85%EB%8B%88%EB%8B%A4.
+   - 가상화 기술 http://www.virtual-space.co.kr/virtualization.html
+   - 스토리지 http://www.ktword.co.kr/abbr_view.php?m_temp1=3113
+   - 탈레스, 2020 탈레스 데이터 위협 보고서 발표 https://www.itworld.co.kr/news/149249
+   - 2019년 클라우드 보안 위협 13가지 https://www.itworld.co.kr/news/125934
+   - CSA 2020 보고서 핵심 요약 https://www.ciokorea.com/t/21990/%EC%95%85%EC%84%B1%EC%BD%94%EB%93%9C/168955
+
+
+
+
+
+
+
