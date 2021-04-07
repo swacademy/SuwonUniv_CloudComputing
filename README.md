@@ -126,6 +126,9 @@
    - CSA 2020 보고서 핵심 요약 https://www.ciokorea.com/t/21990/%EC%95%85%EC%84%B1%EC%BD%94%EB%93%9C/168955
    - 클라우드 컴퓨팅이란? https://www.cisp.or.kr/archives/12017
 
+- 4주차 : 클라우드 서비스와 이용법
+   - 스타벅스 '잊을 수 없는 커피' 뒤엔 MS 클라우드 서비스 있다 https://www.mk.co.kr/news/it/view/2021/03/304138/?fbclid=IwAR3J7xxnaHdGssjB8VE7RdehO-Pp1HvuzkOBWaDDiNZ6SZB3Ep-O5PHZQRA
+
 
 
 
