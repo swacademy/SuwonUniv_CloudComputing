@@ -128,6 +128,7 @@
 
 - 4주차 : 클라우드 서비스와 이용법
    - 스타벅스 '잊을 수 없는 커피' 뒤엔 MS 클라우드 서비스 있다 https://www.mk.co.kr/news/it/view/2021/03/304138/?fbclid=IwAR3J7xxnaHdGssjB8VE7RdehO-Pp1HvuzkOBWaDDiNZ6SZB3Ep-O5PHZQRA
+   - 클라우드·블록체인·지능형로봇 등 5개 분야 집중 지원한다 https://n.news.naver.com/mnews/article/421/0005279061?sid=001&fbclid=IwAR2mwSsNeiG-6DsnHK9WE1eyGVChZEAvuPH7tLcaRRlYm-NLvy3NzzRvhV0
    - https://medium.com/@Albihany/true-cloud-story-about-iaas-paas-saas-47cfea883271 
    - https://slidesplayer.org/slide/11161984/ 
    - https://blog.back4app.com/iaas-vs-paas/ 
@@ -159,3 +160,7 @@
    - 권영환, “아마존 웹 서비스”, 정보문화사(2019)
    - 하야시 마사유키 저/서재원 역, “그림으로 배우는 클라우드 2nd Edition, 영진닷컴(2021)
    - https://edu.goorm.io/learn/lecture/18575/모두를 위한 클라우드 컴퓨팅 입문
+   - AWS에 필요한 실습 자습서 찾기 https://aws.amazon.com/ko/getting-started/hands-on/?fbclid=IwAR1lgYyhuHB0txolOxXrfa2atMa-7iCs2_Q2DnQFgoE2U3CbUY1Rs3CmjXc
+   - 클라우드 자격증 따기 https://brunch.co.kr/@topasvga/1534
+   - AWS 학습 추천도서 https://brunch.co.kr/@topasvga/666?fbclid=IwAR00bZIKeH7TyULmeTUWlcH9213PaGeCLC1pChCBtz3TJhSYCleUgAdR2qk
+   - Cloud 전문가 카페 https://cafe.naver.com/dnspro?fbclid=IwAR0o02EbJ0kq6ebln2GDbKs1ajgPbCm_3-yus6-7qyE5Zg6XiepmEXyKmA4
