@@ -128,10 +128,34 @@
 
 - 4주차 : 클라우드 서비스와 이용법
    - 스타벅스 '잊을 수 없는 커피' 뒤엔 MS 클라우드 서비스 있다 https://www.mk.co.kr/news/it/view/2021/03/304138/?fbclid=IwAR3J7xxnaHdGssjB8VE7RdehO-Pp1HvuzkOBWaDDiNZ6SZB3Ep-O5PHZQRA
-
-
-
-
-
-
-
+   - https://medium.com/@Albihany/true-cloud-story-about-iaas-paas-saas-47cfea883271 
+   - https://slidesplayer.org/slide/11161984/ 
+   - https://blog.back4app.com/iaas-vs-paas/ 
+   - https://www.millsit.co.uk/google-cloud-consultancy/ 
+   - https://kr.kddi.com/products_services/detail2/ncp.html 
+   - https://www.cleveroad.com/blog/heroku-vs-aws--which-cloud-based-solution-to-choose- 
+   - https://www.slideshare.net/engine_yard/innovate-faster-in-the-cloud-with-a-platform-as-a-service 
+   - https://www.supermicro.com/en/solutions/red-hat-openshift 
+   - https://www.sourceguardian.com/blog-google-app-engine-now-supports-php-post-128-1.html 
+   - https://www.webhostingsecretrevealed.net/blog/web-business-ideas/saas-examples/ 
+   - https://www.sysprobs.com/what-is-saas-5-saas-examples-you-must-know 
+   - https://729.io/solve-your-team-communication-woes-with-slack/page/2/?et_blog 
+   - https://cis.technion.ac.il/en/central-services/central-storage/dropbox-cloud-storage/ 
+   - https://docs.aws.amazon.com/ko_kr/ec2/index.html?nc2=h_ql_doc_ec2 
+   - https://microsoftlearningkoreanlab.github.io/AZ-900TKR-MicrosoftAzureFundamentals/ 
+   - https://www.ncloud.com/product/compute 
+   - Google Workspace https://www.youtube.com/watch?v=bE31y5HbukA
+   - GMAIL https://www.youtube.com/watch?v=ivG5nBKltPk
+   - Google Calendar https://www.youtube.com/watch?v=Gywew_BRaBg
+   - Google Chat https://www.youtube.com/watch?v=bzwBg82g1eg
+   - Google Meet https://www.youtube.com/watch?v=br8x_GjXFxs
+   - Google Docs/Sheets/Slide https://www.youtube.com/watch?v=6_hJ3R8jEZM
+   - Google Drive https://www.youtube.com/watch?v=cNQM_chu390
+   - Slack https://www.youtube.com/watch?v=Pj9t-_GwJQw
+   - Dropbox https://www.youtube.com/watch?v=tZIKsr4GQB8
+   - Microsoft Office 365 https://www.youtube.com/watch?v=GsL3AGhKerI
+   - Notion https://www.youtube.com/watch?v=eKVI9jzX-r8
+   - 이영호〮한동수 공저, “당신이 지금 알아야 할 AWS“, 비제이퍼블릭(2019)
+   - 권영환, “아마존 웹 서비스”, 정보문화사(2019)
+   - 하야시 마사유키 저/서재원 역, “그림으로 배우는 클라우드 2nd Edition, 영진닷컴(2021)
+   - https://edu.goorm.io/learn/lecture/18575/모두를 위한 클라우드 컴퓨팅 입문
