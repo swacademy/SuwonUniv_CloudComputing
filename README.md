@@ -164,3 +164,4 @@
    - 클라우드 자격증 따기 https://brunch.co.kr/@topasvga/1534
    - AWS 학습 추천도서 https://brunch.co.kr/@topasvga/666?fbclid=IwAR00bZIKeH7TyULmeTUWlcH9213PaGeCLC1pChCBtz3TJhSYCleUgAdR2qk
    - Cloud 전문가 카페 https://cafe.naver.com/dnspro?fbclid=IwAR0o02EbJ0kq6ebln2GDbKs1ajgPbCm_3-yus6-7qyE5Zg6XiepmEXyKmA4
+   - 개발자들에게 도움이 될 만한 9가지 기본 아마존 웹 서버 서비스 https://velog.io/@openhub/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%97%90%EA%B2%8C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%A0-%EB%A7%8C%ED%95%9C-9%EA%B0%80%EC%A7%80-%EA%B8%B0%EB%B3%B8-%EC%95%84%EB%A7%88%EC%A1%B4-%EC%9B%B9%EC%84%9C%EB%B2%84-Amazon-Web-Service-AWS-%EC%84%9C%EB%B9%84%EC%8A%A4?fbclid=IwAR1dBgRsSbSoaUT0qV2roUf2qHdDs4pjsBXS4Fz8Bfh92dwlYKlTNgXd0t0
