@@ -165,4 +165,55 @@
    - AWS 학습 추천도서 https://brunch.co.kr/@topasvga/666?fbclid=IwAR00bZIKeH7TyULmeTUWlcH9213PaGeCLC1pChCBtz3TJhSYCleUgAdR2qk
    - Cloud 전문가 카페 https://cafe.naver.com/dnspro?fbclid=IwAR0o02EbJ0kq6ebln2GDbKs1ajgPbCm_3-yus6-7qyE5Zg6XiepmEXyKmA4
    - 개발자들에게 도움이 될 만한 9가지 기본 아마존 웹 서버 서비스 https://velog.io/@openhub/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%97%90%EA%B2%8C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%A0-%EB%A7%8C%ED%95%9C-9%EA%B0%80%EC%A7%80-%EA%B8%B0%EB%B3%B8-%EC%95%84%EB%A7%88%EC%A1%B4-%EC%9B%B9%EC%84%9C%EB%B2%84-Amazon-Web-Service-AWS-%EC%84%9C%EB%B9%84%EC%8A%A4?fbclid=IwAR1dBgRsSbSoaUT0qV2roUf2qHdDs4pjsBXS4Fz8Bfh92dwlYKlTNgXd0t0
-- 5주차
+- 5주차 : 클라우드 기반 기술1
+   - NHN, 국내 대학 최초로 숭실대 전체 시스템 클라우드 전환 https://www.etnews.com/20210419000021
+   - https://genesis8.tistory.com/273
+   - https://www.slideshare.net/SeongBokLee/hp-59657872?from_action=save 
+   - http://tta.kr/data/weekly_view.jsp?news_id=2311 
+   - https://aws.amazon.com/ko/blogs/korea/aws-service-catalog/ 
+   - http://cloud.gtplus.co.kr/technologies/cloudservice/ 
+   - https://blog.naver.com/gojump0713/140110601767 
+   - https://www.slideshare.net/OnTheWheel/ss-4888251 
+   - https://www.namutech.co.kr/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B4%80%EB%A6%ACcloud-management-%EC%86%8C%EA%B0%9C/ 
+   - https://www.cloud.or.kr/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%A0%95%EB%B3%B4/cloud-computing/outline/ 
+   - https://www.slideshare.net/SeongBokLee/hp-59657872?from_action=save 
+   - NIA, “범국가 차원의 ICT 신기술 패러다임:클라우드 컴퓨팅 활성화 전략“, 2009. 11.
+   - https://m.blog.naver.com/PostView.nhn?blogId=limoremo&logNo=220024424776&proxyReferer=https:%2F%2Fwww.google.com%2F 
+   - https://transferhwang.tistory.com/31 
+   - https://slidesplayer.org/slide/11113210/ 
+   - https://slidesplayer.org/slide/11113210/ 
+   - https://secmem.tistory.com/308 
+   - https://darksoulstory.tistory.com/447 
+   - https://www.alibabacloud.com/ko/knowledge/what-is-virtualization 
+   - https://blog.daum.net/gunsu0j/328 
+   - https://www.comworld.co.kr/news/articleView.html?idxno=48881 
+   - https://itxcloud.tistory.com/m/135
+   - https://www.comworld.co.kr/news/articleView.html?idxno=48244 
+   - http://it.chosun.com/site/data/html_dir/2012/08/17/2012081785028.html 
+   - https://m.post.naver.com/viewer/postView.nhn?volumeNo=25604877&memberNo=2752366 
+   - “공공기관을 위한 애플리케이션 가상화 제언“, SoftBank Group
+   - https://devromance.tistory.com/12 
+   - http://times.kaist.ac.kr/news/articleView.html?idxno=677 
+   - https://ko.wikipedia.org/wiki/%EC%98%A4%ED%94%88_API 
+   - https://www.linkconsulting.com/what-we-do/services/cloud-provisioning/ 
+   - https://nodetx.com/cloud-provisioning/ 
+   - https://m.blog.naver.com/PostView.nhn?blogId=be_successor&logNo=221026686420&proxyReferer=https:%2F%2Fwww.google.com%2F 
+   - https://m.blog.naver.com/PostView.nhn?blogId=be_successor&logNo=221026686420&proxyReferer=https:%2F%2Fwww.google.com%2F 
+   - https://www.isric.org/overview-service-level-agreements 
+   - https://statuscast.com/sla-template-includes-status-page/ 
+   - https://slownews.kr/76799 
+   - https://aws.amazon.com/ko/security/ 
+   - https://aws.amazon.com/ko/compliance/programs/ 
+   - https://blog.abouttmc.com/microsoft-azure-and-gdpr-how-can-ms-azure-ease-your-journey-to-gdpr-compliance 
+   - https://cloud.google.com/security 
+   - http://az-tutorialplus.blogspot.com/2014/08/crie-seu-proprio-servidor-de-arquivos.html 
+   - 한국인터넷진흥원, “클라우드 정보보호 안내서”, 한국인터넷진흥원(2017, 12) 
+   - 하야시 마사유키 저/서재원 역, “그림으로 배우는 클라우드 2nd Edition, 영진닷컴(2021)
+   - https://edu.goorm.io/learn/lecture/18575/모두를 위한 클라우드 컴퓨팅 입문
+   - ETRI, "모바일 클라우드 기술 동향", 전자통신동향분석 제25권 제3호, ETRI(2010)
+   - NIA, "CIO가 꼭 알아야 할 ICT 트렌드", NIA(2010)
+   - 이영훈, "아키텍처 기반 클라우드 운영관리 가이드", 2014
+   - 안종석, "네트워크 가상화 보안현황 및 보안연관성", 2014
+   - "클라우드 서비스 이해", CROSSENT
+   - "클라우드 서비스 이행 전략과 HP의 사례", HP
+   - "클라우드 전쟁", 삼성증권, 2019
