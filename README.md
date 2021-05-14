@@ -219,3 +219,31 @@
    - "클라우드 전쟁", 삼성증권, 2019
 - 6주차 : 클라우드 기반 기술2
    - 정부 "클라우드 전환"...민간 '희암고문' 우려 https://www.etnews.com/20210511000166?mc=ev_002_00001
+   - 공공정보시스템 5년내 클라우드로 100% 전환...연내 로드맵 수립 https://www.mk.co.kr/news/society/view/2020/09/956308/
+   - https://datacenter.ncloud.com
+   - https://www.facebook.com/LuleaDataCenter/about
+   - https://idchowto.com/?p=7259
+   - http://www.kharn.kr/mobile/article.html?no=14729
+   - https://www.koit.co.kr/news/userArticlePhoto.html 
+   - https://m.blog.naver.com/dlxlwlsl/221798897529  
+   - https://news.skhynix.co.kr/1486 
+   - https://news.mit.edu/2020/iot-deep-learning-1113 
+   - https://www.researchgate.net/figure/3-tier-architecture_fig1_277187696  
+   - https://www.itworld.co.kr/tags/2129/%EB%A9%80%ED%8B%B0%ED%85%8C%EB%84%8C%ED%8A%B8/101255 
+   - https://m.blog.naver.com/ki630808/221778753901 
+   - https://brunch.co.kr/@leedongins/108 
+   - https://authress.io/knowledge-base/creating-a-multitenant-application 
+   - https://ichi.pro/ko/saas-jepum-ui-teneonsi-paeteon-89470774081085 
+   - https://www.bmc.com/blogs/single-tenant-vs-multi-tenant/ 
+   - https://blog.scaleway.com/saas-multi-tenant-vs-multi-instance-architectures/ 
+   - https://www.whoa.com/creating-a-secure-multi-tenant-architecture-from-the-ground-up/ 
+   - https://slidesplayer.org/slide/14424565/ 
+   - https://ko.wikipedia.org/wiki/XML#/media/%ED%8C%8C%EC%9D%BC:XML.svg 
+   - https://phpenthusiast.com/blog/what-is-rest-api 
+   - https://stackoverflow.com/questions/15805112/using-soap-and-rest 
+   - 하야시 마사유키 저/서재원 역, “그림으로 배우는 클라우드 2nd Edition, 영진닷컴(2021)
+   - https://edu.goorm.io/learn/lecture/18575/모두를 위한 클라우드 컴퓨팅 입문
+   - Suanlab, “클라우드 컴퓨팅”, http://suanlab.com/assets/lectures/cc/02.pdf
+   - 황혜인, “글로벌 데이터센터 변화 추세 및 시사점“
+   - “클라우드와 금융혁신(상세)”, 2019년 5월 29일
+   - 전자정부국 정보지원정책과, “행정공공기관 민간 클라우드 이용 가이드라인, 2019.12
