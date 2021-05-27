@@ -248,3 +248,23 @@
    - “클라우드와 금융혁신(상세)”, 2019년 5월 29일
    - 전자정부국 정보지원정책과, “행정공공기관 민간 클라우드 이용 가이드라인, 2019.12
 - 7 주차 : 클라우드를 넘어서
+   - https://www.datanet.co.kr/news/articleView.html?idxno=142024
+   - http://www.datanet.co.kr/news/articleView.html?idxno=142060
+   - https://spacek81.tistory.com/320 
+   - https://blog.lgcns.com/2131?category=604440 
+   - https://blog.lgcns.com/2131?category=604440 
+   - https://www.itworld.co.kr/t/36/%EB%B3%B4%EC%95%88/169055 
+   - https://cloudsecurityalliance.org/ 
+   - https://spacek81.tistory.com/320 
+   - https://www.fireeye.com/blog/executive-perspective/2020/06/cloud-security-separating-fact-from-fiction.html 
+   - 하야시 마사유키 저/서재원 역, “그림으로 배우는 클라우드 2nd Edition, 영진닷컴(2021)
+   - https://edu.goorm.io/learn/lecture/18575/모두를 위한 클라우드 컴퓨팅 입문
+   - 조윤정, “디지털뉴딜의 핵심인프라, 클라우드 산업 생태계 동향”, KDB산업은행 미래전략연구소, 산은조사월보
+   - 유영민, “4차 산업혁명 체감을 위한 클라우드 컴퓨팅 실행(ACT) 전략“, 2018. 12.
+   - “2021 클라우드 입문자를 위한 보안 가이드“, 데이터스 주식회사, 2021.
+   - 이태우, “포스트 코로나 시대, 클라우드의 부상“,  KOSCOM 리포트, 2020.9.
+   - 임유리, “국내외 클라우드 산업 현황 및 전망“, 2020.7
+   - 미래창조과학부 소프트웨어진흥과, “K-ICT 클라우드컴퓨팅 활성화 계획“, 2016.3
+   - 박인상 외 2, “클라우드 보안 기술 및 표준 동향“, 정보통신기획평가원
+   - KISA, “클라우드 취약점 점검 가이드“, 2020.12.
+   - “클라우드의 가장 큰 위협, 과도한 권한 부여＂ 백서, radware
